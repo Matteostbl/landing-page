@@ -312,10 +312,14 @@ nav.navgauche img{
 .info-items{
     font-size: 50%;
 }
-.info-items img{
-    width: 35%;
-}
 
+.info-details{
+    width: 30%;
+    text-align: center;
+}
+.info img{
+    width: 20%;
+}
 .innovation-items{
     display: flex;
     flex-direction: column;
@@ -338,8 +342,6 @@ nav.navgauche img{
 .innovation-liste{
     font-size: 120%;
 }
-
-
 
 }
 
