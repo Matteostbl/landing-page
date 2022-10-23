@@ -309,6 +309,9 @@ nav.navgauche img{
     width: 50%;
 }
 
+.info-items{
+    font-size: 50%;
+}
 .info-items img{
     width: 35%;
 }
@@ -335,10 +338,13 @@ nav.navgauche img{
 .innovation-liste{
     font-size: 120%;
 }
+
+
+
 }
 
 
-    /* Moitié fenetre pc */
+
 @media screen and (max-width:1200px) and (min-width:900px){
     .landing-page {
         background: url(../images/background/backdemipc.jfif);
