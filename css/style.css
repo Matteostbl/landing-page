@@ -26,11 +26,12 @@ nav.nav {
     width: 25%;
     margin-left: 2%;
     text-decoration: none;
+    
 
 
 }
 
-nav.nav li{
+nav.nav a{
     color:rgb(255, 255, 255);
     text-decoration: none;
 }
@@ -56,6 +57,7 @@ nav.navgauche{
 .navgauche img{
     width: 45%;
 }
+
 
 /* titre */
 
@@ -294,7 +296,7 @@ footer{
 
 nav.nav {
     padding: 1%;
-    width:70%;
+    width:90%;
     margin-left: 3%;
     text-decoration: none;
     font-size: 75%;
